@@ -4,3 +4,5 @@ I also want to know how can I commit some edits.
 
 
 I want to see how we can add more commits to the same file.
+
+We should move on with the master branch because we should always get updated

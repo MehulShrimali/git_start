@@ -1,3 +1,5 @@
 I am learning to use git here!!
 
 I also want to know how can I commit some edits.
+
+I came bact to previous state and from that state I wanted to do some more edits!!
